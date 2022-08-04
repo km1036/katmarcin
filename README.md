@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katmarcin. I aspire to work in the tech field and apply my knowledge of data science to better the world.
 - 👀 I’m interested in healthcare equity, sustainability, climate tech, and impact analysis
-- Please view existing and past projects under "Repositories" and group projects under "Starred"
+- Please view existing and past projects under "Repositories" and group projects under "Stars"
 - How to reach me: Slack or Linkedin @katmarcin
 
 <!---
