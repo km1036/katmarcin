@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katmarcin. I aspire apply my knowledge of data analytics and machine learning to better the world.
+- 👋 Hi, I’m @katmarcin. I aspire to apply my knowledge of data analytics and machine learning to better the world.
 - 👀 I’m interested in healthcare equity, sustainability, climate tech, and impact analysis
 - Please view existing and past projects under "Repositories" and any group projects under "Stars"
 - How to reach me: Slack or Linkedin @katmarcin
